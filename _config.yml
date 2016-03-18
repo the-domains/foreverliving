@@ -1,0 +1,14 @@
+layout_spectrum: 0.03750089
+typography_spectrum: 0.1131825
+color:
+  lightness: 0.3991228
+  brandStrength: 0.6471879
+  saturation: 0.7251561
+  rhythmicContrast: 0.2637845
+  brandColors:
+    - '#84BC41'
+    - '#A3C6F2'
+    - '#395B02'
+    - '#42A4EA'
+    - '#FFFDFF'
+name: 'Foreverliving '
