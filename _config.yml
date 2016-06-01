@@ -1,14 +1,26 @@
-layout_spectrum: 0.03750089
-typography_spectrum: 0.1131825
+layout_spectrum: 0.1033835
+name: 'Foreverliving '
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.3991228
   brandStrength: 0.6471879
+  lightness: 0.3884712
   saturation: 0.7251561
   rhythmicContrast: 0.2637845
   brandColors:
-    - '#84BC41'
-    - '#A3C6F2'
-    - '#395B02'
-    - '#42A4EA'
-    - '#FFFDFF'
-name: 'Foreverliving '
+    - '#060606'
+    - '#FFFFFF'
+    - '#C48C54'
+    - '#77090A'
+    - '#684526'
+typography_spectrum: 0.1131825
